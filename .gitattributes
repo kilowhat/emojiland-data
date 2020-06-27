@@ -1,0 +1,6 @@
+compile.php export-ignore
+package.json export-ignore
+yarn.lock export-ignore
+.git* export-ignore
+
+dist/*.json -diff

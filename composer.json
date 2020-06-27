@@ -1,0 +1,19 @@
+{
+    "name": "kilowhat/emojiland-data",
+    "description": "Emoji data for the emojiland extensions",
+    "keywords": [
+        "flarum",
+        "emoji"
+    ],
+    "license": "MIT",
+    "require": {
+        "ext-json": "*"
+    },
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
